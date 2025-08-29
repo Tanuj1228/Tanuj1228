@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Backend+Specialist+in+Java+%7C+Spring+Boot;Exploring+DSA+and+System+Design;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Backend+Specialist+in+Java+%7C+Spring+Boot;Exploring+DSA+%26+System+Design;Turning+Ideas+Into+Scalable+Solutions" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
+  <img src="https://github.com/Tanuj1228/Tanuj1228/blob/main/assets/coding-professional.gif" width="500" alt="Professional Coding Animation"/>
 </p>
 
 ---
